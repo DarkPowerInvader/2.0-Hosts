@@ -101,3 +101,8 @@
   * **php55**: 5.5
   * **php56**: 5.6
   * **php70**: 7.0
+
+- [Rilex Technologies](http://rilextech.com)
+  * **php55**: 5.5
+  * **php56**: 5.6
+  * **php70**: 7.0
